@@ -1,2 +1,0 @@
-# Giaquan
-Script tự làm 
